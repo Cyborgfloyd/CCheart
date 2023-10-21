@@ -1,9 +1,12 @@
 # CCheart
-Codigo de un ECG que esta conectado aun servidor el cual se encargara de almacenar los datos que este
+Codigo de un ECG que esta conectado aun servidor el cual se encargara de almacenar los datos que este emita.
 
-creado por los alumnos del cecyteg plantel penjamo:
+Creado por los alumnos del cecyteg plantel penjamo:
+
 Javier Eduardo Mireles Rosales
+
 Antonio Rafael Ramirez Pacheco
+
 Julian Antonio Ramirez Alonso
 
 Acesores:
